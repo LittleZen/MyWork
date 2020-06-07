@@ -19,7 +19,7 @@ FIX STATUS: Not-fixed
 
 
 /************************************************************************************************************************************/
-3) [8-04-2020 - 22:50PM] SQL Vulnerability Report [https://www.multiservicesurbino.com/affittostudenti/index.jsp]- Report submit to: Stafano Errani (web master)
+3) [8-04-2020 - 22:50PM] SQL Vulnerability Report [https://www.multiservicesurbino.com/affittostudenti/index.jsp]- Report submit to: Stefano Errani (web master)
 Materials:
    Not available: All forms were injectable with simple injection --> ' OR '1'='1 
    
