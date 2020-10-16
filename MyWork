@@ -1,6 +1,6 @@
 My Personal Work:
 
-1) [29-12-2019] XSS Vulnerability Report [https://www.viralvid.it/] - Report submit to: giglo3 (owner)
+1) [29-12-2019] XSS Vulnerability Report {https://www.viralvid.it/} - Report submit to: giglo3 (owner)
 Materials:
    ScreenShot: https://www.inforge.net/forum/attachments/download-png.39727/
    Discussion: https://www.inforge.net/forum/threads/nuovo-sito-anime-streaming.580870/page-3
@@ -9,7 +9,7 @@ FIX STATUS: Fixed [30-12-2019]
 
 
 /************************************************************************************************************************************/ 
-2) [25-02-2020 - 1:48AM] SQL Vulnerability Report [https://www.ssy.org/detail.php?id=X] - Report submit to: ssy ("contact us" form) 
+2) [25-02-2020 - 1:48AM] SQL Vulnerability Report {https://www.ssy.org/detail.php?id=X} - Report submit to: ssy ("contact us" form) 
 Materials:
    ScreenShot: https://prnt.sc/r75d7p
    ScreenShot: https://prnt.sc/r75dok
@@ -19,12 +19,19 @@ FIX STATUS: Not-fixed
 
 
 /************************************************************************************************************************************/
-3) [8-04-2020 - 22:50PM] SQL Vulnerability Report [https://www.multiservicesurbino.com/affittostudenti/index.jsp]- Report submit to: Stefano Errani (web master)
+3) [8-04-2020 - 22:50PM] SQL Vulnerability Report {https://www.multiservicesurbino.com/affittostudenti/index.jsp} - Report submit to: Stefano Errani (web master)
 Materials:
    Not available: All forms were injectable with simple injection --> ' OR '1'='1 
    
 FIX STATUS: Fixed [9-04-2020]
 
+
+/************************************************************************************************************************************/
+4) [2-06-19] Pack Editing Report {https://loa3.gtarcade.com/} - Report submit to: Official Support
+Materials:
+   https://youtu.be/8h-40JfnqJQ
+
+FIX STATUS: Unknow
 
 /************************************************************************************************************************************/
 
