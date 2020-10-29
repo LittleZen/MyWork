@@ -1,4 +1,4 @@
-My Personal Work:
+My Personal Work [ALL VULNERABILITY ARE PUBLISHED AFTER A FIX OR AFTER 90 DAYS FROM THE REPORT!]:
 
 1) [29-12-2019] XSS Vulnerability Report {https://www.viralvid.it/} - Report submit to: giglo3 (owner)
 Materials:
@@ -19,7 +19,7 @@ FIX STATUS: Not-fixed
 
 
 /************************************************************************************************************************************/
-3) [8-04-2020 - 22:50PM] SQL Vulnerability Report {https://www.multiservicesurbino.com/affittostudenti/index.jsp} - Report submit to: Stefano Errani (web master)
+3) [8-04-2020 - 22:50PM] SQL Vulnerability Report {https://www.multiservicesurbino.com/affittostudenti/index.jsp} - Report submit to: Facebook (Stefano Errani - web master)
 Materials:
    Not available: All forms were injectable with simple injection --> ' OR '1'='1 
    
@@ -32,6 +32,14 @@ Materials:
    https://youtu.be/8h-40JfnqJQ
 
 FIX STATUS: Unknow
+
+/************************************************************************************************************************************/
+5) [29-10-2020] SQL Injection {https://www.backlightstudio.net/admin/} - Report submit to: Facebook (owner of website)
+Materials:
+   Vulnerable-query: https://www.backlightstudio.net/info.php\?id\=\*
+   Report: https://prnt.sc/v9n50m
+
+FIX STATUS: Reported
 
 /************************************************************************************************************************************/
 
