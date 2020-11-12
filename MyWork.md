@@ -5,7 +5,7 @@ My Personal Work [ALL VULNERABILITIES ARE PUBLISHED AFTER A FIX OR AFTER 90 DAYS
 1) [29-12-2019] XSS Vulnerability Report {https://www.viralvid.it/} - Report submit to: giglo3 (owner)
 
 
-Materials:
+`Materials:`
 
 
    ScreenShot: https://www.inforge.net/forum/attachments/download-png.39727/
@@ -21,7 +21,7 @@ FIX STATUS: Fixed [30-12-2019]
 2) [25-02-2020 - 1:48AM] SQL Vulnerability Report {https://www.ssy.org/detail.php?id=X} - Report submit to: ssy ("contact us" form) 
 
 
-Materials:
+`Materials:`
    
    
    ScreenShot: https://prnt.sc/r75d7p
@@ -38,7 +38,7 @@ FIX STATUS: Not-fixed
 
 3) [8-04-2020 - 22:50PM] SQL Vulnerability Report {https://www.multiservicesurbino.com/affittostudenti/index.jsp} - Report submit to: Facebook (Stefano Errani - web master)
 
-Materials:
+`Materials:`
    
    
    Not available: All forms were injectable with simple injection --> ' OR '1'='1 
@@ -51,7 +51,7 @@ FIX STATUS: Fixed [9-04-2020]
 
 4) [2-06-19] Pack Editing Report {https://loa3.gtarcade.com/} - Report submit to: Official Support
 
-Materials:
+`Materials:`
 
 
    https://youtu.be/8h-40JfnqJQ
@@ -64,7 +64,7 @@ FIX STATUS: Unknow
 
 5) [29-10-2020] SQL Injection {https://www.backlightstudio.net/admin/} - Report submit to: Facebook (owner of website)
 
-Materials:
+`Materials:`
    
    
    Vulnerable-query: https://www.backlightstudio.net/info.php\?id\=\*
