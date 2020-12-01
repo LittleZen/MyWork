@@ -28,7 +28,7 @@ Type | SourceType
    ScreenShot | *https://prnt.sc/r75g0d*
 
 
-FIX STATUS: Not-fixed
+FIX STATUS: Not-fixed ⚠
 
 
 `that's contain HTTPS and Security addons reports too`
@@ -44,7 +44,7 @@ Type | SourceType
 Not available | *All forms were injectable with simple injection --> ' OR '1'='1*
    
    
-FIX STATUS: Fixed [9-04-2020]
+FIX STATUS: Partially Fixed [9-04-2020] ⚠
 
 -----------
 ### Loa3 - GtArcade
@@ -57,7 +57,7 @@ Type | SourceType
 Video | *https://youtu.be/8h-40JfnqJQ*
 
 
-FIX STATUS: Unknow
+FIX STATUS: Unknow 
 
 -----------
 ### BlackLightStudio
@@ -71,7 +71,7 @@ Vulnerable-query | *https://www.backlightstudio.net/info.php\?id\=\*
 Report | *https://prnt.sc/v9n50m*
 
 
-FIX STATUS: Reported
+FIX STATUS: Not Fixed ⚠
 
 -----------
 
