@@ -15,7 +15,7 @@ Discussion | *https://www.inforge.net/forum/threads/nuovo-sito-anime-streaming.5
 FIX STATUS: Fixed [30-12-2019]
 
 -----------
-### SSY
+### SSY ⚠
 
 [25-02-2020 - 1:48AM] SQL Vulnerability Report {https://www.ssy.org/detail.php?id=X} - Report submit to: ssy ("contact us" form) 
 
@@ -28,13 +28,13 @@ Type | SourceType
    ScreenShot | *https://prnt.sc/r75g0d*
 
 
-FIX STATUS: Not-fixed ⚠
+FIX STATUS: Not-fixed 
 
 
 `that's contain HTTPS and Security addons reports too`
 
 -----------
-### MultiServicesUrbino
+### MultiServicesUrbino ⚠
 
 [8-04-2020 - 22:50PM] SQL Vulnerability Report {https://www.multiservicesurbino.com/affittostudenti/index.jsp} - Report submit to: Facebook (Stefano Errani - web master)
 
@@ -44,7 +44,7 @@ Type | SourceType
 Not available | *All forms were injectable with simple injection --> ' OR '1'='1*
    
    
-FIX STATUS: Partially Fixed [9-04-2020] ⚠
+FIX STATUS: Partially Fixed [9-04-2020] 
 
 -----------
 ### Loa3 - GtArcade
@@ -60,7 +60,7 @@ Video | *https://youtu.be/8h-40JfnqJQ*
 FIX STATUS: Unknow 
 
 -----------
-### BlackLightStudio
+### BlackLightStudio ⚠
 
 [29-10-2020] SQL Injection {https://www.backlightstudio.net/admin/} - Report submit to: Facebook (owner of website)
 
@@ -71,7 +71,7 @@ Vulnerable-query | *https://www.backlightstudio.net/info.php\?id\=\*
 Report | *https://prnt.sc/v9n50m*
 
 
-FIX STATUS: Not Fixed ⚠
+FIX STATUS: Not Fixed 
 
 -----------
 
