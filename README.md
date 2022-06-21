@@ -70,10 +70,10 @@ Type | Source
 Vulnerable-query | *https://www.backlightstudio.net/info.php\?id\=\*
 Report | *https://prnt.sc/v9n50m*
 
--
+-----------
 ### CSV Lazio ⚠
 
-[20-06-2022] Private - Report submit to: Facebook (owner of website)
+[20-06-2022] Private - Report submit to: email (info@csvlazio.org)
 
 `Materials:`
 Type | Source
