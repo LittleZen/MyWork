@@ -70,8 +70,19 @@ Type | Source
 Vulnerable-query | *https://www.backlightstudio.net/info.php\?id\=\*
 Report | *https://prnt.sc/v9n50m*
 
+-
+### CSV Lazio ⚠
 
-FIX STATUS: Not Fixed 
+[20-06-2022] Private - Report submit to: Facebook (owner of website)
+
+`Materials:`
+Type | Source
+--- | --- 
+Vulnerable-query | *---*
+Report | *---*
+
+
+FIX STATUS: Unknow
 
 -----------
 
